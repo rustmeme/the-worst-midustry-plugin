@@ -1,4 +1,4 @@
-# the-worst-mindustry-plugin
+# the-worst-mindustry-plugin (copied by 0==(=======>#0450 for trying to fix some bugs)
 
 This is yet another rewrite of a plugin for TWS server. This time around though, I decided to 
 write it in kotlin. It turned out to be the best decision I ever made. 
